@@ -8,12 +8,15 @@ tags: tutorial
 # 集群教程：我的被坑经验
 
 **本文仅代表一种可行的解法，即使（某些我没有注意到的地方）有些繁琐**
+
 **注：代码里的汉字是要根据情况被替换的内容**
 
 0.0 一些有用的东西
 
 &emsp;也即我在自己摸索的时候用到的一些东西：
+
 &emsp;[朱毅鑫老师的使用手册](https://pku-core.feishu.cn/docx/KZerdFIcQoESlexvY5XcpdtgnBd)(密码班级群发过)
+
 &emsp;[etc]()
 
 1.0 登录集群
