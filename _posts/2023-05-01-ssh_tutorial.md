@@ -2,7 +2,7 @@
 layout: article
 title: 集群教程：我的被坑经验
 mathjax: true
-tags:tutorial
+tags: tutorial
 ---
 
 # 集群教程：我的被坑经验
