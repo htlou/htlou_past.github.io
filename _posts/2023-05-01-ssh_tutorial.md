@@ -1,3 +1,10 @@
+---
+layout: article
+title: 集群教程：我的被坑经验
+mathjax: true
+tags:tutorial
+---
+
 # 集群教程：我的被坑经验
 
 **本文仅代表一种可行的解法，即使（某些我没有注意到的地方）有些繁琐**
